@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RCarbot</string>
+    <string name="ad_unit_id">INSERT_YOUR_AD_UNIT_ID_HERE</string>
+
+    <string name="rc_car_version">Remote Car.version:0.01</string>
+    <string name="bt_console_version">Console Screen:0.01</string>
+    <string name="setting_version">Setting Screen:0.01</string>
+    <string name="main_panel">Main Screen</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Bluetooth Search</string>
+    <string name="action_map">Map</string>
+
+
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+    <string name="select_device">select a device to connect</string>
+
+
+    <string name="front">F</string>
+    <string name="front_right">FR</string>
+    <string name="right">R</string>
+    <string name="bottom_right">BR</string>
+    <string name="bottom">B</string>
+    <string name="bottom_left">BL</string>
+    <string name="left">L</string>
+    <string name="front_left">FL</string>
+    <string name="center">C</string>
+
+    <string name="action_joystick">Joystick</string>
+    <string name="action_camera">Save video</string>
+    <string name="capture_video">Capture Video</string>
+    <string name="camera_message">Ready</string>
+
+    <string name="save_route">Save Route</string>
+    <string name="stop_route">Stop</string>
+
+</resources>

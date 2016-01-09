@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="ga_sessionTimeout">300</integer>
+    <bool name="ga_autoActivityTracking">true</bool>
+    <screenName name="com.middleand.mobile.rccar.JosysticFragment">
+        RCarbot App Joystick View
+    </screenName>
+    <screenName name="com.middleand.mobile.rccar.MapFragment">
+        RCarbot Map View
+    </screenName>
+    <!--  The following value should be replaced with correct property id. -->
+    <string name="ga_trackingId">UA-58155646-1</string>
+</resources>
